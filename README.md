@@ -1,4 +1,4 @@
-# SQL Database Management & Analysis System 📊
+# SQL Database Management & Analysis System 
 
 This project demonstrates a complete SQL workflow for managing and analyzing database systems. It covers everything from initial schema design to data manipulation and business reporting.
 
